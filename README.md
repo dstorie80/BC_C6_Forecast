@@ -37,18 +37,37 @@ To access the latest repo you will need to follow this github rep link - (https:
 
 To start, you will be presented with only a 1 option.  To enter a city into text field. 
 
-By clicking the submit button or hitting enter on the keyboard you will be 
+![image](https://github.com/dstorie80/BC_C6_Forecast/assets/149905416/b60f714c-97a9-4a77-8c52-e225cfaddff9)
+
+![image](https://github.com/dstorie80/BC_C6_Forecast/assets/149905416/b3754a77-ad98-4e8e-b16d-f0ea25006db0)
+
+By clicking the submit button or hitting enter on the keyboard you will be presented with the 3-hour forecast.  Giving you the City name, Temprature, Wind Speed, and Humidity.
+
+![image](https://github.com/dstorie80/BC_C6_Forecast/assets/149905416/bb7f4067-80fa-4dcd-a8f3-256c7e4af0ee)
+
+As the more cities are selected, the more a library of past cities will be entered into the area below the search
+
+![image](https://github.com/dstorie80/BC_C6_Forecast/assets/149905416/3db6ad54-8335-4ad6-b368-996ea3c6858b)
+
+At any point the user can go back to one of the previously entered cities in the library, and select it to see if the weather has changed at all.
+
+![image](https://github.com/dstorie80/BC_C6_Forecast/assets/149905416/770f9253-cdbc-4729-a87d-7a49f915a97c)
+
+![image](https://github.com/dstorie80/BC_C6_Forecast/assets/149905416/ef0e575d-fd05-4703-8ad4-de97e99caef3)
+
+
+
+
 
 
 
 
 ## Credits
 
-Background images:
+The API used to get the data came from the project readme file:
 
-The background image for the main site was taken from - wallpapers.com (https://wallpapers.com/background/coding-background-9izlympnd0ovmpli.html)
+https://api.openweathermap.org/data/2.5/forecast
 
-The background image for the highschore site was taken from - freepik.com (https://www.freepik.com/free-vector/celebration-background-with-colorful-party-flag-falling-confetti_5128060.htm#query=party%20background&position=0&from_view=keyword&track=ais&uuid=df971e32-3db8-4a43-a48c-e7a5408789c5#position=0&query=party%20background)
 
 
 ## License
